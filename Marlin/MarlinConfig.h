@@ -28,8 +28,10 @@
 #include "boards.h"
 #include "Version.h"
 #include "Configuration.h"
+#include "Configuration_mock.h"
 #include "Conditionals_LCD.h"
 #include "Configuration_adv.h"
+#include "Configuration_mock_adv.h"
 #include "pins.h"
 #ifndef USBCON
   #define HardwareSerial_h // trick to disable the standard HWserial
