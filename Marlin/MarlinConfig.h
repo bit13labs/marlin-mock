@@ -30,6 +30,7 @@
 #include "Configuration.h"
 #include "Configuration_mock.h"
 #include "Conditionals_LCD.h"
+#include "tmc_macros.h"
 #include "Configuration_adv.h"
 #include "Configuration_mock_adv.h"
 #include "pins.h"
